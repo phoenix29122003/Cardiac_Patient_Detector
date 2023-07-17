@@ -1,0 +1,2 @@
+# classification-model-for-heart-disease
+This is Cardiac_patient prediction model which is trained using logistic regression, kneighbour classifier and randomforestclassifier. Among them logistic regressor has the highest accuracy.It is optimised by tuning various hyperparameters , by randomsearchcv and grid search cv. Along with that evaluated over accuracy , precision, recall and f1 score. Heart disease
